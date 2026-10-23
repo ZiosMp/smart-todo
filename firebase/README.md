@@ -2,16 +2,6 @@
 
 Trước khi bắt đầu, đọc `docs/database-decisions.md` ở thư mục gốc repository để biết các lựa chọn đã chốt.
 
-Trước khi bắt đầu, đọc `docs/database-decisions.md` ở thư mục gốc repository để biết các lựa chọn đã chốt.
-
-Trước khi bắt đầu, đọc `docs/database-decisions.md` ở thư mục gốc repository để biết các lựa chọn đã chốt.
-
-Trước khi bắt đầu, đọc `docs/database-decisions.md` ở thư mục gốc repository để biết các lựa chọn đã chốt.
-
-Trước khi bắt đầu, đọc `docs/database-decisions.md` ở thư mục gốc repository để biết các lựa chọn đã chốt.
-
-Trước khi bắt đầu, đọc `docs/database-decisions.md` ở thư mục gốc repository để biết các lựa chọn đã chốt.
-
 ## 0. Yêu cầu
 
 - Node.js **22 trở lên**.

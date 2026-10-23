@@ -32,22 +32,3 @@ Nguyên tắc: chọn phương án **đơn giản nhất, ít phụ thuộc nh�
 
 Các lựa chọn Q1–Q14 đã được ghi tại `database-decisions.md`. Những câu hỏi này không còn là việc chặn bước thử nghiệm. Không triển khai lên Firebase thật cho đến khi bộ kiểm thử Rules được chạy và nhóm review.
 
-## Trạng thái chốt
-
-Các lựa chọn Q1–Q14 đã được ghi tại `database-decisions.md`. Những câu hỏi này không còn là việc chặn bước thử nghiệm. Không triển khai lên Firebase thật cho đến khi bộ kiểm thử Rules được chạy và nhóm review.
-
-## Trạng thái chốt
-
-Các lựa chọn Q1–Q14 đã được ghi tại `database-decisions.md`. Những câu hỏi này không còn là việc chặn bước thử nghiệm. Không triển khai lên Firebase thật cho đến khi bộ kiểm thử Rules được chạy và nhóm review.
-
-## Trạng thái chốt
-
-Các lựa chọn Q1–Q14 đã được ghi tại `database-decisions.md`. Những câu hỏi này không còn là việc chặn bước thử nghiệm. Không triển khai lên Firebase thật cho đến khi bộ kiểm thử Rules được chạy và nhóm review.
-
-## Trạng thái chốt
-
-Các lựa chọn Q1–Q14 đã được ghi tại `database-decisions.md`. Những câu hỏi này không còn là việc chặn bước thử nghiệm. Không triển khai lên Firebase thật cho đến khi bộ kiểm thử Rules được chạy và nhóm review.
-
-## Trạng thái chốt
-
-Các lựa chọn Q1–Q14 đã được ghi tại `database-decisions.md`. Những câu hỏi này không còn là việc chặn bước thử nghiệm. Không triển khai lên Firebase thật cho đến khi bộ kiểm thử Rules được chạy và nhóm review.
