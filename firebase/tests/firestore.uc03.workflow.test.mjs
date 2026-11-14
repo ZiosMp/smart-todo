@@ -271,8 +271,11 @@ test('UC03-05: Owner khoi phuc Board; Board tro lai danh sach chinh', async () =
     getDocs(query(
       collection(ownerDb, 'boards'),
       where('memberIds', 'array-contains', 'owner'),
-      where('archivedAt', '==', null),
     )),
   );
-  assert.deepEqual(activeBoards.docs.map(board => board.id), ['restore-board']);
+  // Giong BoardsScreen: truy van theo memberIds, sau do loc archivedAt tren app.
+  const activeIds = activeBoards.docs
+    .filter(board => board.data().archivedAt == null)
+    .map(board => board.id);
+  assert.deepEqual(activeIds, ['restore-board']);
 });
